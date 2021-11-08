@@ -1,0 +1,21 @@
+{
+	"name": "livros-api",
+	"version": "0.0.1",
+	"description": "",
+	"main": "app.js",
+	"scripts": {
+		"start": "nodemon app.js"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"express": "^4.17.1",
+		"mysql2": "^2.3.3-rc.0",
+		"sequelize": "^6.9.0"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.14",
+		"sequelize-cli": "^6.3.0"
+	}
+}
